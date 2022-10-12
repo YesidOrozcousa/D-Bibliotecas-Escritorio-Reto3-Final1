@@ -1,0 +1,6 @@
+server.port=8080
+spring.datasource.url=jdbc:localhost:3306:Reto3
+spring.datasource.username=root
+spring.datasource.password=jero2803
+spring.jpa.hibernate.ddl-auto=create-drop
+spring.jpa.database-platform=org.hibernate.dialect.MySQLDialect
